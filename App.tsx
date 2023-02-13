@@ -8,19 +8,19 @@ import Icon from 'react-native-vector-icons/Ionicons'
 const Tab = createBottomTabNavigator()
 
 function HomeScreen() {
-  return <Text>Home</Text>
+  return <Text>자신의 전적을 볼 수 있는 창입니다. 추후 언어 변경 시스템을 넣을 예정입니다.</Text>
 }
 
-function SearchScreen() {
-  return <Text>Search</Text>
+function WordQuiz() {
+  return <Text>어원 퀴즈를 통해서 단어를 외울 수 있습니다.</Text>
 }
 
-function NotificationScreen() {
-  return <Text>Notification</Text>
+function SearchEtymology() {
+  return <Text>어원을 찾아서 단어의 이해를 쉽게 합니다.</Text>
 }
 
-function MessageScreen() {
-  return <Text>Message</Text>
+function SearchPublisher() {
+  return <Text>학교 출판사에 따라 단어가 정렬 되게 만듭니다.</Text>
 }
 
 export default function App() {
@@ -29,7 +29,7 @@ export default function App() {
       <Tab.Navigator 
         initialRouteName='Home'
         screenOptions={{
-          tabBarShowLabel: false,
+          tabBarShowLabel: true,
           tabBarActiveTintColor: '#fb8c00'
         }} >
         <Tab.Screen 
@@ -39,43 +39,43 @@ export default function App() {
             title: '홈',
             tabBarIcon: () => (
               <Icon 
-                name='home' 
+                name='logo-buffer' 
                 size={30}
               />
             )
           }} />
         <Tab.Screen 
-          name='Search' 
-          component={SearchScreen} 
+          name='Word Quiz' 
+          component={WordQuiz} 
           options={{
-            title: '홈',
+            title: '어원 퀴즈',
             tabBarIcon: () => (
               <Icon 
-                name='planet'
+                name='school'
                 size={30}  
               />
             )
           }} />
         <Tab.Screen 
-          name='Notification'
-          component={NotificationScreen}
+          name='어원 찾기'
+          component={SearchEtymology}
           options={{
-            title: '홈',
+            title: '어원 찾기',
             tabBarIcon: () => (
               <Icon
-                name='ios-person'
-                size={30}  
+                name='compass'
+                size={30}
               />
             )
           }} />
         <Tab.Screen 
-          name='Message' 
-          component={MessageScreen}
+          name='출판사 찾기' 
+          component={SearchPublisher}
           options={{
-            title: '홈',
+            title: '출판사 찾기',
             tabBarIcon: () => (
               <Icon
-                name='planet'
+                name='download'
                 size={30}
               />
             )
