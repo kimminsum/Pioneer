@@ -14,3 +14,6 @@ git push https://github.com/kimminsum/EnglishWord.git
 <img src="https://github-readme-stats.vercel.app/api?username=kimminsum&show_icons=true">
 
 ### Purpose : Improve english learning environment
+
+## 하단 바 [ 자신의 기록 ] [ 어원 찾기 ] [ 퀴즈 ] [ 출판사에 따라 단어 선택 ]
+![image](https://user-images.githubusercontent.com/74331678/218463961-7ad6ce36-b3b8-4311-957c-4880769a3d00.png)
