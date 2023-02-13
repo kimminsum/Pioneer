@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EnglishWord&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pioneer&fontSize=90" />
 
 git push https://github.com/kimminsum/EnglishWord.git
 
