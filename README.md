@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pioneer&fontSize=90" />
 
-git push https://github.com/kimminsum/EnglishWord.git
+https://github.com/kimminsum/Pioneer.git
 
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -15,5 +15,6 @@ git push https://github.com/kimminsum/EnglishWord.git
 
 ### Purpose : Improve english learning environment
 
-## 하단 바 [ 자신의 기록 ] [ 어원 찾기 ] [ 퀴즈 ] [ 출판사에 따라 단어 선택 ]
-![image](https://user-images.githubusercontent.com/74331678/218463961-7ad6ce36-b3b8-4311-957c-4880769a3d00.png)
+## 하단 바 [ 자신의 기록 ] [ 퀴즈 ] [ 어원 찾기 ] [ 출판사에 따라 단어 선택 ]
+<img src="https://user-images.githubusercontent.com/74331678/218521870-0587ccb9-f699-45da-ade7-115223b706dd.png" width="30%"/>
+
