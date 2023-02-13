@@ -16,4 +16,5 @@ git push https://github.com/kimminsum/EnglishWord.git
 ### Purpose : Improve english learning environment
 
 ## 하단 바 [ 자신의 기록 ] [ 퀴즈 ] [ 어원 찾기 ] [ 출판사에 따라 단어 선택 ]
+<img src="https://user-images.githubusercontent.com/74331678/218521870-0587ccb9-f699-45da-ade7-115223b706dd.png" sizes=50% />
 ![Screenshot_1676301923](https://user-images.githubusercontent.com/74331678/218521870-0587ccb9-f699-45da-ade7-115223b706dd.png)
